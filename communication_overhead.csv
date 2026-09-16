@@ -1,0 +1,4 @@
+approach,estimated_upload_MB,clients,rounds,parameters_per_update
+Centralized raw training data,20.899681091308594,1,1,
+Standard FL model updates,0.015106201171875,12,5,33.0
+DP FL model updates,0.015106201171875,12,5,33.0
